@@ -15,7 +15,7 @@ Aplicação web low-code desenvolvida em **OutSystems 11** com integração de *
 
 | Usuário | Senha | Perfil |
 |---------|-------|--------|
-| admin@email.com | _(sua senha)_ | Admin |
+| adminescola | Admin123@ | Admin |
 | enzom | Outroteste123@ | Student |
 | valentinas |Teste123@ | Student |
 
